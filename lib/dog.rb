@@ -7,3 +7,8 @@ class Dog
     this_dogs_name #getting 
   end 
 end 
+
+lassie = Dog.new
+lassie.name = "Lassie"
+ 
+lassie.name
